@@ -8,7 +8,7 @@ export default function Home() {
 
       {/* Responsive Summary */}
       <p className="text-base sm:text-lg md:text-xl text-gray-700 max-w-3xl leading-relaxed">
-        I am a Cloud Engineer at Infosol Technosol Pvt. Ltd. with a strong foundation in{" "}
+        I am a Cloud Engineer with a strong foundation in{" "}
         <span className="font-semibold text-blue-600">
           AWS Cloud Infrastructure
         </span>
