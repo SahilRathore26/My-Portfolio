@@ -37,7 +37,7 @@ jobs:
 
       - name: Deploy to S3
         run: |
-          aws s3 sync build/ s3://portfolio-s3-12 --delete
+          aws s3 sync build/ s3://s3-my-portfolio-123 --delete
 
       - name: Invalidate CloudFront Cache
         run: |
